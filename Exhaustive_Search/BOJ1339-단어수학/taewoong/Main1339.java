@@ -1,8 +1,11 @@
+package baekjoon;
+
+import java.io.FileInputStream;
+import java.util.HashSet;
 import java.util.Scanner;
 
-public class BOJ1339 {
-	
-	static char[] arr;
+public class Main1339 {
+    static char[] arr;
     static int size = 0;
 
     public static void cal(int n) {
@@ -12,7 +15,7 @@ public class BOJ1339 {
     }
 
     public static void main(String[] args) throws Exception {
-        System.setIn(new FileInputStream("1339.txt"));
+        System.setIn(new FileInputStream("res/baekjoon/1339.txt"));
 
         Scanner sc = new Scanner(System.in);
 
