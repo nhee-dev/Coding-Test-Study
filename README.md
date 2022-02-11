@@ -2,7 +2,7 @@
 > **코딩 테스트 문제 풀이 및 업로드**
 
 ### ✏ 스터디 진행 방식
-+ 기간 : 2022.02.08 ~
++ 기간 : 2022.02.09 ~
 + 개인 과제 제출 및 문제 풀이
 + 타임어택 알고리즘 문제 풀기
 + 노션에 알고리즘 개념 정리  
@@ -10,12 +10,12 @@
 </br>
 
 
-## 📚 스터디 일정표 (매주 4문제)
+## 📚 스터디 일정표 (매주 4문제 이상)
 
 주차 | 알고리즘 유형 | 문제1 | 문제2 | 문제3 | 문제4
 :--: | :--: | :--: | :--: | :--: | :--:
-1주차</br>(02.08~02.11) | 완전 탐색 </br> (Exhaustive Search) | [BOJ1339 - 단어 수학](https://www.acmicpc.net/problem/1339) | [BOJ1062 - 가르침](https://www.acmicpc.net/problem/1062) | |
-2주차</br>(02.14~02.18) | DFS / BFS | | | |
+1주차</br>(02.09~02.11) | 완전 탐색 </br> (Exhaustive Search) | [[BOJ1339]</br>단어 수학](https://www.acmicpc.net/problem/1339) | [[BOJ1062]</br>가르침](https://www.acmicpc.net/problem/1062) | - | -
+2주차</br>(02.14~02.18) | DFS / BFS | [[BOJ2573]</br>빙산](https://www.acmicpc.net/problem/2573) | [[BOJ14225]</br>부분수열의 합](https://www.acmicpc.net/problem/14225) | [BOJ1012]</br>유기농 배추 |
 3주차</br>(02.21~02.25) | 다이나믹 프로그래밍 (DP) | | | |
 
 </br>
@@ -53,7 +53,7 @@ git commit -m "[code] namhee / BOJ00000 / Hello World / 완전탐색"
 ```
 namhee / week01 / 문제1 - Hello World
 ```
-+ PR 템플릿에 작성된 양식을 따라도 되고, 자유롭게 작성
++ PR 코멘트에는 템플릿에 작성된 양식을 따라도 되고, 자유롭게 작성
 + PR 코멘트로 자유롭게 코드 리뷰
 
 </br>
@@ -71,13 +71,13 @@ namhee / week01 / 문제1 - Hello World
     <td align="center"><a href="" width="100px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><sub><b>김남희</b></td>
-    <td align="center"><sub><b>강태웅</b></td>
-    <td align="center"><sub><b>이준하</b></td>
-    <td align="center"><sub><b>김기한</b></td>
-    <td align="center"><sub><b>김명지</b></td>
-    <td align="center"><sub><b></b></td>
-    <td align="center"><sub><b></b></td>
-    <td align="center"><sub><b></b></td>
+    <td align="center"><a href="https://github.com/nhee0410"><sub><b>김남희</b></td>
+    <td align="center"><a href="https://github.com/dttmm"><sub><b>강태웅</b></td>
+    <td align="center"><a href="https://github.com/JunhaLee"><sub><b>이준하</b></td>
+    <td align="center"><a href="https://github.com/kim-kihan"><sub><b>김기한</b></td>
+    <td align="center"><a href="https://github.com/mxxxxxji"><sub><b>김명지</b></td>
+    <td align="center"><a href="https://github.com/myclf22"><sub><b>서재형</b></td>
+    <td align="center"><a href="https://github.com/taxfdi6371"><sub><b>권용준</b></td>
+    <td align="center"><sub><b>배혜연</b></td>
   </tr>
 </table>
