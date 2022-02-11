@@ -23,7 +23,7 @@ public class BOJ1339 {
 			
 		}
 		
-		Arrays.sort(alpabRk);
+		Arrays.sort(alpabRk) ;
 		
 		int sum = 0;
 		int mltiNum = 9;
