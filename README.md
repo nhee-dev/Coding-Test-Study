@@ -16,7 +16,7 @@
 :--: | :--: | :--: | :--: | :--: | :--:
 1주차</br>(02.09~02.11) | 완전 탐색 </br> (Exhaustive Search) | [[BOJ1339]</br>단어 수학](https://www.acmicpc.net/problem/1339) | [[BOJ1062]</br>가르침](https://www.acmicpc.net/problem/1062) | - | -
 2주차</br>(02.14~02.18) | DFS / BFS | [[BOJ2573]</br>빙산](https://www.acmicpc.net/problem/2573) | [[BOJ14225]</br>부분수열의 합](https://www.acmicpc.net/problem/14225) | [[BOJ1012]</br>유기농 배추](https://www.acmicpc.net/problem/1012) | [[BOJ2589]</br>보물섬](https://www.acmicpc.net/problem/2589)
-3주차</br>(02.21~02.25) | - | | | |
+3주차</br>(02.21~02.25) | 탐욕 알고리즘 </br> (Greedy) | [[BOJ12845]</br>모두의 마블](https://www.acmicpc.net/problem/12845) | [[BOJ11000]</br>강의실 배정](https://www.acmicpc.net/problem/11000) | |
 
 </br>
 
