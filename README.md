@@ -37,12 +37,12 @@
 
 ## 📚 스터디 일정표 (매주 4문제 이상)
 
-주차 | 알고리즘 유형 | 문제1 | 문제2 | 문제3 | 문제4
-:--: | :--: | :--: | :--: | :--: | :--:
-1주차</br>(02.09~02.11) | 완전 탐색 </br> (Exhaustive Search) | [[BOJ1339]</br>단어 수학](https://www.acmicpc.net/problem/1339) | [[BOJ1062]</br>가르침](https://www.acmicpc.net/problem/1062) | - | -
-2주차</br>(02.14~02.18) | DFS / BFS | [[BOJ2573]</br>빙산](https://www.acmicpc.net/problem/2573) | [[BOJ14225]</br>부분수열의 합](https://www.acmicpc.net/problem/14225) | [[BOJ1012]</br>유기농 배추](https://www.acmicpc.net/problem/1012) | [[BOJ2589]</br>보물섬](https://www.acmicpc.net/problem/2589)
-3주차</br>(02.21~02.25) | 탐욕 알고리즘 </br> (Greedy) | [[BOJ12845]</br>모두의 마블](https://www.acmicpc.net/problem/12845) | [[BOJ11000]</br>강의실 배정](https://www.acmicpc.net/problem/11000) | [[BOJ1969]</br>DNA](https://www.acmicpc.net/problem/1969) | [[BOJ14891]</br>톱니바퀴](https://www.acmicpc.net/problem/14891)
-4주차</br>(02.28~03.04) | 구현 </br> (Implementation) | [[BOJ1946]</br>신입사원](https://www.acmicpc.net/problem/1946) |  | |
+주차 | 알고리즘 유형 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5
+:--: | :--: | :--: | :--: | :--: | :--: | :--: |
+1주차</br>(02.09~02.11) | 완전 탐색 </br> (Exhaustive Search) | [[BOJ1339]</br>단어 수학](https://www.acmicpc.net/problem/1339) | [[BOJ1062]</br>가르침](https://www.acmicpc.net/problem/1062) | - | - | - |
+2주차</br>(02.14~02.18) | DFS / BFS | [[BOJ2573]</br>빙산](https://www.acmicpc.net/problem/2573) | [[BOJ14225]</br>부분수열의 합](https://www.acmicpc.net/problem/14225) | [[BOJ1012]</br>유기농 배추](https://www.acmicpc.net/problem/1012) | [[BOJ2589]</br>보물섬](https://www.acmicpc.net/problem/2589) | - | 
+3주차</br>(02.21~02.25) | 탐욕 알고리즘 </br> (Greedy) | [[BOJ12845]</br>모두의 마블](https://www.acmicpc.net/problem/12845) | [[BOJ11000]</br>강의실 배정](https://www.acmicpc.net/problem/11000) | [[BOJ1969]</br>DNA](https://www.acmicpc.net/problem/1969) | [[BOJ14891]</br>톱니바퀴](https://www.acmicpc.net/problem/14891) | [[BOJ1946]</br>신입사원](https://www.acmicpc.net/problem/1946) |
+4주차</br>(02.28~03.04) | 다이나믹 프로그래밍 </br> (DP) | [[BOJ2579]</br>계단 오르기](https://www.acmicpc.net/problem/2579) | [[BOJ15486]</br>퇴사2](https://www.acmicpc.net/problem/15486) | | |
 
 
 </br>
