@@ -54,6 +54,9 @@
 3주차</br>(02.21~02.25) | 탐욕 알고리즘 </br> (Greedy) | [[BOJ12845]</br>모두의 마블](https://www.acmicpc.net/problem/12845) | [[BOJ11000]</br>강의실 배정](https://www.acmicpc.net/problem/11000) | [[BOJ14891]</br>톱니바퀴](https://www.acmicpc.net/problem/14891) | [[BOJ1969]</br>DNA](https://www.acmicpc.net/problem/1969) | [[BOJ1946]</br>신입사원](https://www.acmicpc.net/problem/1946) |
 4주차</br>(02.28~03.04) | DP / 구현 | [[BOJ2579]</br>계단 오르기](https://www.acmicpc.net/problem/2579) | [[BOJ15486]</br>퇴사2](https://www.acmicpc.net/problem/15486) | [[BOJ21610]</br>마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [[BOJ21608]</br>상어 초등학교](https://www.acmicpc.net/problem/21608) | - |
 5주차</br>(03.07~03.11) | 다익스트라 </br> (Dijkstra) | [[BOJ1446]</br>지름길](https://www.acmicpc.net/problem/1446) | [[BOJ1753]</br>최단경로](https://www.acmicpc.net/problem/1753) | [[BOJ18352]</br>특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [[BOJ4485]</br>녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [[BOJ1916]</br>최소비용 구하기](https://www.acmicpc.net/problem/1916) |
+6주차</br>(03.21~03.25) | 그래프 / 구현 / 이진탐색 | [[BOJ14503]</br>로봇청소기](https://www.acmicpc.net/problem/14503) | [[BOJ13397]</br>구간 나누기2](https://www.acmicpc.net/problem/13397) | [[BOJ1647]</br>도시 분할 계획](https://www.acmicpc.net/problem/1647) | [[BOJ7569]</br>토마토](https://www.acmicpc.net/problem/7569) | - |
+7주차</br>(03.28~04.01) | 문자열 | [[BOJ1254]</br>팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [[BOJ1013]</br>Contact](https://www.acmicpc.net/problem/1013) | [[BOJ4949]</br>균형잡힌 세상](https://www.acmicpc.net/problem/4949) | - | - |
+
 
 </br>
 
