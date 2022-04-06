@@ -45,7 +45,17 @@
       
 </br>
 
-## 📚 스터디 일정표 (매주 4문제 이상)
+## 📚 스터디 일정표 
+
+### 4월 스터디 일정표
+      
+주차 | 주제 | 문제1 | 문제2 | 문제3 |
+:--: | :--: | :--: | :--: | :--: |
+8주차</br>(04.04~04.08) | - | [[BOJ14500]</br>테트로미노](https://www.acmicpc.net/problem/14500) | - | - |
+
+<details>
+<summary>2, 3월 스터디 일정표 (매주 특정 유형 4문제 이상)</summary>
+<div markdown="1">
 
 주차 | 알고리즘 유형 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5
 :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -57,6 +67,8 @@
 6주차</br>(03.21~03.25) | 그래프 / 구현 / 이진탐색 | [[BOJ14503]</br>로봇청소기](https://www.acmicpc.net/problem/14503) | [[BOJ13397]</br>구간 나누기2](https://www.acmicpc.net/problem/13397) | [[BOJ1647]</br>도시 분할 계획](https://www.acmicpc.net/problem/1647) | [[BOJ7569]</br>토마토](https://www.acmicpc.net/problem/7569) | - |
 7주차</br>(03.28~04.01) | 문자열 | [[BOJ1254]</br>팰린드롬 만들기](https://www.acmicpc.net/problem/1254) | [[BOJ1013]</br>Contact](https://www.acmicpc.net/problem/1013) | [[BOJ4949]</br>균형잡힌 세상](https://www.acmicpc.net/problem/4949) | - | - |
 
+</div>
+</details>
 
 </br>
 
