@@ -47,11 +47,13 @@
 
 ## 📚 스터디 일정표 
 
-### 4월 스터디 일정표
+### 4월 스터디 일정표 : SW 역량 평가, 코딩테스트 대비 (매주 2문제)
       
-주차 | 주제 | 문제1 | 문제2 | 문제3 |
-:--: | :--: | :--: | :--: | :--: |
-8주차</br>(04.04~04.08) | - | [[BOJ14500]</br>테트로미노](https://www.acmicpc.net/problem/14500) | - | - |
+주차 | 문제1 | 문제2 |
+:--: | :--: | :--: |
+8주차</br>(04.04~04.08) | [[BOJ14500]</br>테트로미노](https://www.acmicpc.net/problem/14500) | - |
+9주차</br>(04.11~04.15) | [[BOJ2251]</br>물통](https://www.acmicpc.net/problem/2251) | [[BOJ3190]</br>뱀](https://www.acmicpc.net/problem/3190) |
+10주차</br>(04.18~04.22) | [[BOJ9205]</br>맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | [[BOJ9207]</br>페그 솔리테어](https://www.acmicpc.net/problem/9207) |
 
 <details>
 <summary>2, 3월 스터디 일정표 (매주 특정 유형 4문제 이상)</summary>
