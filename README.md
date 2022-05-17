@@ -97,10 +97,14 @@ Exhaustive_Search/BOJ00000/namhee/Main.java
 </br>
 
 ## ✅ Commit Message 규칙
-[Commit Type] 이름(ID) / 문제사이트와 번호 / 문제이름 / 알고리즘 유형
+[Commit Type] 이름(ID) / 문제사이트와 번호, PGS는 level / 문제이름 / 알고리즘 유형
 ```
 git commit -m "[code] namhee / BOJ00000 / Hello World / 완전탐색"
 ```
+```
+git commit -m "[code] namhee / PGS level2 / 더 맵게 / Heap"
+```
+
 + **문제 사이트**
   + BOJ : 백준 ( https://acmicpc.net/ )
   + SWEA : SW Expert Academy ( https://swexpertacademy.com/main/main.do )
