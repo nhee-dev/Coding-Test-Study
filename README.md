@@ -47,16 +47,28 @@
 
 ## 📚 스터디 일정표 
 
-### 4월 스터디 일정표 : SW 역량 평가, 코딩테스트 대비 (매주 2문제)
-      
+### 5월 스터디 일정표 : 프로그래머스 연습
+| 일정 | 문제 | 일정 | 문제 | 일정 | 문제 |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| 05.02(월) | [[level2]</br>문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 05.09(월) | [[level2]</br>더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 05.11(수) | [[level2]</br>기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 
+<!-- | - | - | - | - | - | - |
+ -->
+<details>
+<summary> 4월 스터디 일정표 : SW 역량 평가, 코딩테스트 대비 (매주 2문제, 프로젝트 시에는 1문제)</summary>
+<div markdown="1">
+
 주차 | 문제1 | 문제2 |
 :--: | :--: | :--: |
 8주차</br>(04.04~04.08) | [[BOJ14500]</br>테트로미노](https://www.acmicpc.net/problem/14500) | - |
 9주차</br>(04.11~04.15) | [[BOJ2251]</br>물통](https://www.acmicpc.net/problem/2251) | [[BOJ3190]</br>뱀](https://www.acmicpc.net/problem/3190) |
 10주차</br>(04.18~04.22) | [[BOJ9205]</br>맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | [[BOJ9207]</br>페그 솔리테어](https://www.acmicpc.net/problem/9207) |
+11주차</br>(04.25~04.29) | [[BOJ24954]</br>물약 구매](https://www.acmicpc.net/problem/24954) | - |
+  
+</div>
+</details>
 
 <details>
-<summary>2, 3월 스터디 일정표 (매주 특정 유형 4문제 이상)</summary>
+<summary> 2, 3월 스터디 일정표 : 알고리즘 개념 익히기 (매주 4문제 이상)</summary>
 <div markdown="1">
 
 주차 | 알고리즘 유형 | 문제1 | 문제2 | 문제3 | 문제4 | 문제5
