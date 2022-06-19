@@ -11,7 +11,7 @@
 
 ## 👨‍💻 스터디 참석 명단
 <table>
-  <tr>
+<!--   <tr>
     <td></td>
     <td></td>
     <td></td>
@@ -20,7 +20,7 @@
     <td></td>
     <td></td>
     <td></td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center"><a href="https://github.com/nhee0410"><img src="https://avatars.githubusercontent.com/u/49919262?v=4?s=100" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/dttmm"><img src="https://avatars.githubusercontent.com/dttmm" width="80px;" alt=""></td>
