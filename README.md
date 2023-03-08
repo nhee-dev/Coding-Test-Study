@@ -2,7 +2,7 @@
 > **코딩 테스트 문제 풀이 및 업로드**
 
 ### ✏ 스터디 진행 방식
-+ 기간 : 2022.02.09 ~
++ 기간 : 2022.02.09 ~ 05.11 (약 3개월)
 + 개인 과제 제출 및 문제 풀이
 + 타임어택 알고리즘 문제 풀기
 + 노션에 알고리즘 개념 정리  
@@ -26,7 +26,7 @@
     <td align="center"><a href="https://github.com/dttmm"><img src="https://avatars.githubusercontent.com/dttmm" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/kim-kihan"><img src="https://avatars.githubusercontent.com/kim-kihan" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/mxxxxxji"><img src="https://avatars.githubusercontent.com/mxxxxxji" width="80px;" alt=""></td>
-    <td align="center"><a href="https://github.com/myclf22"><img src="https://avatars.githubusercontent.com/myclf22" width="80px;" alt=""></td>
+    <td align="center"><a href="https://github.com/forlivd"><img src="https://avatars.githubusercontent.com/forlivd" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/taxfdi6371"><img src="https://avatars.githubusercontent.com/taxfdi6371" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/henginthere"><img src="https://avatars.githubusercontent.com/henginthere" width="80px;" alt=""></td>
     <td align="center"><a href="https://github.com/JunhaLee"><img src="https://avatars.githubusercontent.com/JunhaLee" width="80px;" alt=""></td>
